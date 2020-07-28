@@ -13,15 +13,15 @@
   url: "/Research/"
   side: left
   
- - title: Publications
+- title: Publications
   url: "/Publications/"
   side: left
   
-   - title: Collaborators
+- title: Collaborators
   url: "/Collaborators/"
   side: left
   
-   - title: Data
+- title: Data
   url: "/Data/"
   side: left 
 
